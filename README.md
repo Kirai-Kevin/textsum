@@ -15,7 +15,7 @@ The Text Summarizer is a Python application that provides a simple interface for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-summarizer.git
+   git clone https://github.com/Kirai-Kevin/textsum.git
    cd textsum
 
 Install dependencies:
